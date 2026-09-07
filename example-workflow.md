@@ -71,7 +71,7 @@ form_create:
 sqlite_execute: UPDATE settings SET value = '301' WHERE key = 'turnover_form_id';
 ```
 
-> Turnover Report form created. I'll attach it to every unit automatically. Two things to know: on the phone the "describe the damage" and "what was left" boxes may show even when the answer is No (conditional fields are web-only); cleaners just leave them blank. And there's deliberately no signature step, so the cleaner can submit alone in the unit.
+> Turnover Report form created. I'll attach it to every unit automatically. Damage and left-item follow-ups stay hidden on the phone until the answer is Yes. There's deliberately no signature step, so the cleaner can submit alone in the unit.
 
 ## "New host: Marisol Vega, marisol@example.com, 619-555-0101, pays in 14 days, she's on Airbnb and VRBO through Hospitable. Three units. Palm St 12B: 12 Palm Street unit 12B, San Diego 92109, 2 bed 2 bath condo tower, $140 a turnover, I pay the cleaner $70, lobby code 4411#, unit lockbox 0912, wifi PalmGuest / sunset2026. Casita: 5 Oak Avenue, San Diego 92104, 1 bed 1 bath, 2.5 hours, $120 / $60, lockbox 2288 on the side gate. Beach House: 880 Ocean Blvd, Carlsbad 92008, 3 bed 2 bath, 4 hours, $210 / $105, keypad 7731, alarm 2580, supplies closet in the garage code 1234."
 
