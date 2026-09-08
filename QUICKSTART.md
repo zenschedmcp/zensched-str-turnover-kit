@@ -75,7 +75,7 @@ A unit in another time zone just needs you to say so ("Dev's loft in Denver, Mou
 
 > Invite Ana Reyes, ana@example.com, paid per turnover. And Luis Ortega, luis@example.com, hourly at $22.50.
 
-Each gets an email ($0.25), installs the app ([Android](https://play.google.com/store/apps/details?id=com.zensched.app) / [iOS TestFlight](https://testflight.apple.com/join/Wp51m5Yq)), and activates. Give them the door codes yourself; the AI will not put them in ZenSched.
+Each gets an email ($0.25), installs the app ([Android](https://play.google.com/store/apps/details?id=com.zensched.app) / [iOS App Store](https://apps.apple.com/us/app/zensched/id6800081657)), and activates. Give them the door codes yourself; the AI will not put them in ZenSched.
 
 ## 8. Load the week and dispatch
 

@@ -182,7 +182,7 @@ Every completed turnover has GPS check-in / check-out times with distance from t
 ## Mobile app for cleaners
 
 - **Android:** [Google Play](https://play.google.com/store/apps/details?id=com.zensched.app)
-- **iOS:** [TestFlight](https://testflight.apple.com/join/Wp51m5Yq)
+- **iOS:** [App Store](https://apps.apple.com/us/app/zensched/id6800081657)
 
 When you invite a cleaner, they get an email, install the app, and can immediately see their turnovers, check in and out with GPS verification, and fill in the Turnover Report with photos. There is no signature step; the cleaner submits alone in the empty unit.
 
